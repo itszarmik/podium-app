@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Podium",
+    "slug": "podium-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "podium",
+    "ios": { "supportsTablet": false, "bundleIdentifier": "gg.podium.app" },
+    "android": { "package": "gg.podium.app", "adaptiveIcon": { "backgroundColor": "#08080D" } },
+    "plugins": ["expo-router", "expo-secure-store"]
+  }
+}
